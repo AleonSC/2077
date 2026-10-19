@@ -1,0 +1,11 @@
+# WolvenKit build output and caches (re-created when you pack)
+wolvenkit/**/packed/
+wolvenkit/**/raw/
+wolvenkit/**/.wolvenkit/
+*.archive
+
+# Blender backups
+*.blend1
+*.blend2
+
+__pycache__/
